@@ -8,6 +8,7 @@
 
 
     - Contract for difference (CFD)
+      
     - Exchange-traded funds (ETFs)
 - Must consume caffeine every day
 - An otaku on the cutting edge of trends
