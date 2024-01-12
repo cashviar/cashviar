@@ -6,7 +6,6 @@
 - Gojo Satoru's number-one fan
 - The investment targets mainly involve
 
-
     - Contract for difference (CFD)
       
     - Exchange-traded funds (ETFs)
