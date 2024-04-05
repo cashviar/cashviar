@@ -1,7 +1,7 @@
 ## 加啡 Cashviar
 
 - Fond of counting money
-- CFD trader
-- Fintech programmer
-- Big fan of Gojo Satoru
-- Otaku on the cutting edges of trends
+- A CFD trader
+- A Fintech programmer
+- A Big fan of Gojo Satoru
+- An Otaku on the trends
