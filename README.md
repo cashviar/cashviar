@@ -2,6 +2,6 @@
 
 - A CFD trader
 - A fintech programmer
-- A big fan of Gojo Satoru
 - Fond of counting money
-- An otaku on the cutting edge of trends
+- A big fan of Gojo Satoru
+- An otaku of fashion trends
