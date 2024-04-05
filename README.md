@@ -1,7 +1,7 @@
 ## 加匯貓 Cashviar
 
 - Fond of counting banknotes
-- CFD trader
-- Fintech programmer
-- Big fan of Gojo Satoru
-- Otaku on the cutting edge of trends
+- A CFD trader
+- A Fintech programmer
+- A Big fan of Gojo Satoru
+- An Otaku on the cutting edge of trends
