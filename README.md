@@ -1,4 +1,4 @@
-## 加匯貓 Cashviar
+## 加肥貓 Cashviar
 
 - Fond of counting money
 - A CFD trader
