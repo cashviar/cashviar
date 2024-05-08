@@ -1,4 +1,4 @@
-## 加啡 Cashviar
+## Cashviar
 
 - A CFD trader
 - Fond of counting banknotes
