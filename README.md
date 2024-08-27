@@ -2,5 +2,5 @@
 
 - A CFD trader
 - A top fan of Gojo Satoru
-- Ultra-stylish enthusiasts
-- Fond of counting banknotes
+- Ultra-stylish style enthusiasts
+- Counting banknotes is the favorite
