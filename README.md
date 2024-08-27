@@ -2,5 +2,5 @@
 
 - A CFD trader
 - A top fan of Gojo Satoru
-- An otaku of fashion trends
+- Ultra fashion enthusiasts
 - Fond of counting banknotes
